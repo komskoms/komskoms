@@ -23,6 +23,9 @@
 <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=Docker&logoColor=white&color=2496ED"/></a>
 <img src="https://img.shields.io/badge/docker%20compose-000000?style=flat-square&logo=Docker&logoColor=white&color=2496ED"/></a>
 
+<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white&color=F05032"/></a>
+<img src="https://img.shields.io/badge/Jira-000000?style=flat-square&logo=Jira&logoColor=white&color=0052CC"/></a>
+<img src="https://img.shields.io/badge/Confluence-000000?style=flat-square&logo=Confluence&logoColor=white&color=172B4D"/></a>
 
 
 <!--
